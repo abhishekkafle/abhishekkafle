@@ -45,11 +45,14 @@
 
 <div align="center">
     <img src="https://media3.giphy.com/media/mCmc21BKYUuC2A6p8H/giphy.gif?cid=ecf05e47ek5tgbv1hu3qdrzm5bciejl5b9pokzqhaxir315h&rid=giphy.gif&ct=g" width="250px">
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=abhishekkafle" />
 </div>
 
+<br><br><br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -65,10 +68,14 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-
+    </p>
+</div>
+ 
+ <div align="right">
 <h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/abhishekkafle"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abhishekkafle" /></a></p><br><br>
-<br> 
+<p align="center"><a href="https://www.buymeacoffee.com/abhishekkafle"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abhishekkafle" /></a></p>
+</div>
+    <br><br><br> 
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
