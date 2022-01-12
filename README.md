@@ -13,11 +13,11 @@
 
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ Web Developer
-├─▣ Security researcher
-├─▣ Technical Writer
-├─▣ Content Creator (Soon)
 ├─▣ <a href="https://abhishek-kafle.com.np/">Abhishek Kafle</a>
+├─▣ Full Stack Web Devloper
+├─▣ Security researcher
+├─▣ System Architect
+├─▣ Content Creator (Soon)
 ├─▣ I am mostly available at <a href="https://twitter.com/abhishekkafle_">Twitter</a>
 │
 └───────────────────────────────▰▰▰
