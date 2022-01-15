@@ -45,11 +45,10 @@
 
 <div align="center">
     <img src="https://media3.giphy.com/media/mCmc21BKYUuC2A6p8H/giphy.gif?cid=ecf05e47ek5tgbv1hu3qdrzm5bciejl5b9pokzqhaxir315h&rid=giphy.gif&ct=g" width="250px">
-    <br>
+    <br><br>
     <img src="https://komarev.com/ghpvc/?username=abhishekkafle" />
 </div>
 
-<br><br><br>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -75,27 +74,17 @@
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/abhishekkafle"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abhishekkafle" /></a></p>
 </div>
-    <br><br><br> 
+   
+    
+  <h2>ℹ️ &nbsp;Github Info</h2>
+	
+  <summary><b>🔎 Github Profile Details</b></summary>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekkafle&theme=github_dark" alt="Abhishek Kafle" align = "center"/></p>
 
-<p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek Kafle's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkafle&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+  <summary><b>⚡ Github Stats </b></summary>
+<p align="center"><img height="180em"alt="Abhishek Kafle's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkafle&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" align = "center"/>
+<img height="180em" alt="Abhishek Kafle's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkafle&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" align = "center"/></p>
 
+<summary><b>📊 Github Contribution Graph</b></summary>
+<p align="center"<a href="#"><img alt="Abhishek Kafle's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhishekkafle&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a></p>
 
-
-  <br/>
-  <div align="center">
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Abhishek Kafle's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkafle&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  </div>
-  <br/>
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Abhishek Kafle's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhishekkafle&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
