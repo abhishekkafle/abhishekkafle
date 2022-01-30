@@ -75,7 +75,7 @@
 <p align="center"><a href="https://www.buymeacoffee.com/abhishekkafle"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abhishekkafle" /></a></p>
 </div>
    
-    
+<!--     
   <h2>ℹ️ &nbsp;Github Info</h2>
 	
   <summary><b>🔎 Github Profile Details</b></summary>
@@ -88,3 +88,4 @@
 <summary><b>📊 Github Contribution Graph</b></summary>
 <p align="center"<a href="#"><img alt="Abhishek Kafle's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhishekkafle&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a></p>
 
+ -->
