@@ -34,9 +34,6 @@
 ┌──┤ PROJECTS ├───────▰▰▰
 │
 ├─◈ <a href="https://abhishek-kafle.com.np">Building/ Learning</a>
-<!-- ├─◈ <a href="https://github.com/abhishekkafle/React-chat-app">Chat App</a>
-├─◈ <a href="https://github.com/abhishekkafle/learnxers">Coming soon</a>
-├─◈ <a href="https://github.com/abhishekkafle/Lure-Web">TBA</a> -->
 │
 └───────────────────────────────▰▰▰
 </pre>
