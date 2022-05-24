@@ -14,7 +14,7 @@
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ <a href="https://abhishek-kafle.com.np/">Abhishek Kafle</a>
-├─▣ Full Stack Web Devloper
+├─▣ Full Stack Web Developer
 ├─▣ Security researcher
 ├─▣ System Architect
 ├─▣ Content Creator (Soon)
