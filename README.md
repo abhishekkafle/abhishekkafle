@@ -18,7 +18,7 @@
 ├─▣ Security researcher
 ├─▣ System Architect
 ├─▣ Content Creator (Soon)
-├─▣ I am mostly available at <a href="https://twitter.com/abhishekkafle_">Twitter</a>
+├─▣ I am mostly available at <a href="https://twitter.com/abhishekkkaflee">Twitter</a>
 │
 └───────────────────────────────▰▰▰
 
