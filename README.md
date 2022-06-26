@@ -24,7 +24,7 @@
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="https://twitter.com/abhishekkafle_">Twitter</a>
+├─◈ <a href="https://twitter.com/abhishekkkaflee">Twitter</a>
 ├─◈ <a href="https://www.youtube.com/c/youtube">YouTube</a>
 ├─◈ <a href="https://t.me/AyK4yR10u2">Telegram</a>
 ├─◈ <a href="https://www.linkedin.com/in/abhishek-kafle-630457202/">LinkedIn</a>
