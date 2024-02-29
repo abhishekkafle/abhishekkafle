@@ -1,12 +1,12 @@
 <div align="center">
-<h2> Yo! Whaddup?</h2>
+<h2> Hey! </h2>
 </div>
 
 
 
 <div align="center">
-    <strong> Quote: </strong>
-<p><i>"Only a foolish person complains about his torn pocket, a wise man uses it to scratch his balls" <br> -Lao Tzu probably</i></p>
+
+<p><i>"Embarking on a quest as a Code Connoisseur and Cyber Maverick, pioneering uncharted tech frontiers in Computer Engineering.”</i></p>
 </div>
 
 <pre>
