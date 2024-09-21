@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<p><i>"Embarking on a quest as a Code Connoisseur and Cyber Maverick, pioneering uncharted tech frontiers in Computer Engineering.”</i></p>
+<p><i>"Random Quote that makes me sound good”</i></p>
 </div>
 
 <pre>
