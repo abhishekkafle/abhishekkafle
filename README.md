@@ -13,11 +13,11 @@
 
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ <a href="https://abhishek-kafle.com.np/">Abhishek Kafle</a>
-├─▣ Full Stack Web Developer
-├─▣ Security researcher
-├─▣ System Architect
-├─▣ Content Creator (Soon)
+├─▣ <a href="https://aykay.dev/">AyKay - Abhishek</a>
+├─▣ System Architect / Engineer
+├─▣ Full Stack Developer
+├─▣ Security Researcher
+├─▣ DevOPS - Getting the hang of it
 ├─▣ I am mostly available at <a href="https://twitter.com/abhishekkkaflee">Twitter</a>
 │
 └───────────────────────────────▰▰▰
@@ -26,7 +26,6 @@
 │
 ├─◈ <a href="https://twitter.com/abhishekkkaflee">Twitter</a>
 ├─◈ <a href="https://www.youtube.com/c/youtube">YouTube</a>
-├─◈ <a href="https://t.me/AyK4yR10u2">Telegram</a>
 ├─◈ <a href="https://www.linkedin.com/in/abhishek-kafle-630457202/">LinkedIn</a>
 │
 └───────────────────────────────▰▰▰
