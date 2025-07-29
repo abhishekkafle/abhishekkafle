@@ -14,11 +14,11 @@
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ <a href="https://aykay.dev/">AyKay - Abhishek</a>
-├─▣ System Architect / Engineer
-├─▣ Full Stack Developer
-├─▣ Security Researcher
-├─▣ DevOPS - Getting the hang of it
-├─▣ I am mostly available at <a href="https://twitter.com/abhishekkkaflee">Twitter</a>
+├─▣ System Architect 
+├─▣ AI/ML Enginner
+├─▣ Security Researcher (For Fun)
+├─▣ DevOPS
+├─▣ Contact me at Contact@Aykay.Dev
 │
 └───────────────────────────────▰▰▰
 
