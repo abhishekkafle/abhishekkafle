@@ -32,7 +32,7 @@
 
 ┌──┤ PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://abhishek-kafle.com.np">Building/ Learning</a>
+├─◈ <a href="https://nevortex.com">Building NeVortex</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
