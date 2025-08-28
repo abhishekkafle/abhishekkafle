@@ -32,7 +32,7 @@
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="https://www.linkedin.com/in/abhishek-kafle-630457202/">LinkedIn</a>
+├─◈ <a href="https://www.linkedin.com/in/abhishekkafle/">LinkedIn</a>
 │
 └───────────────────────────────▰▰▰
 	
