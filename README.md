@@ -14,7 +14,6 @@
 ├─▣ System Architect
 ├─▣ AI Infrastructure Engineer
 ├─▣ Cloud & DevOps
-├─▣ Contact me at contact@aykay.dev
 │
 └───────────────────────────────▰▰▰
 
